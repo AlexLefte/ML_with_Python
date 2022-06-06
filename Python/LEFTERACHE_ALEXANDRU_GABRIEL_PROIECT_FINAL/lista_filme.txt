@@ -1,0 +1,25 @@
+Nume film: Orient Express
+Durata: 120
+Gen: Drama
+Varsta minima: 14
+
+Nume film: War Horse
+Durata: 100
+Gen: Drama
+Varsta minima: 12
+
+Nume film: Coco
+Durata: 75
+Gen: Animatie
+Dublaj: romana
+
+Nume film: Cars
+Durata: 100
+Gen: Animatie
+Dublaj: engleza
+
+Nume film: Titanic
+Durata: 180
+Gen: Drama
+Varsta minima: 14
+
